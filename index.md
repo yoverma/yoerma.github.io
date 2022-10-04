@@ -15,7 +15,7 @@ More about me [here](./more_about_me.html).
 0. **Y. Verma** and S. Jena. "Shower Identification in Calorimeter using Deep Learning ", [preprint](https://arxiv.org/abs/2103.16247){: reversed="reversed"}
 
 ## Workshops:
-0. **Cui, T.**, Marttinen, P., and Kaski, S. "Recovering Pairwise Interactions Using Neural Networks" _Bayesian Deep Learning, Workshop at NeurIPS 2019_.
+0. **Y. Verma**, S. Kaski, M. Heinonen and V. Garg. "Modular Flows: Differential Molecular Generation.", _AI4Science, Workshop at NeurIPS 2022_.
 {: reversed="reversed"}
 
 ## Services

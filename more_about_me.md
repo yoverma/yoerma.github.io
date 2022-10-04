@@ -1,9 +1,10 @@
 ##  Moi! Welcome to my webpage.
 
-I earned my MSc in Computational Statistics and Machine Learning from [University College London](https://www.ucl.ac.uk/) and BSc in Statistics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). I have worked for [Invenia Lab, Cambridge](https://www.invenia.ca/labs/) with Francesco Caravelli, and [Institute of Software, Chinese Academy of Sciences](http://english.is.cas.cn/), with Mingxue Liao and Pin Lv.
+I earned my Integrated B.S. - M.S. in Physics and Data Science from [IISER Mohali](https://www.iisermohali.ac.in/). I have done several internships on intersection of Machine Learning and Experimental High Energy Physics at [CERN](https://home.cern/) in [CMS Experiment](https://home.cern/science/experiments/cms) ,[EPP lab, UZH](https://www.physik.uzh.ch/en/groups/kilminster.html) with Yuta, Arne, Stefanos and Izaak , [PPSP, IFJ PAN](https://www.ifj.edu.pl/) with Rafał Staszewski and Marcin Wolter, and [IAS,Kolkata] with Ritesh K. Singh. 
 
-I have a relatively diverse research background, as you may have noticed from my publications. I started my Data Science journey from _Bayesian_, then to [_Frequentist_](https://xkcd.com/1132/), then to _complexity system_, then to _reinforcement learning_, then to _neural nets_, then to _computer vision_, and then back to [_Bayesian_](https://www.inference.vc/everything-that-works-works-because-its-bayesian-2/). 
 
-I'm currently living in [Helsinki](./Helsinki.jpg).
+I have a relatively diverse research background, as you may have noticed from my research internship experience. I started my Machine Learning journey from _Physics_ strengthning the mathematical foundations, then to _combining_ both in search for [superlative performance](https://www.pnnl.gov/explainer-articles/physics-informed-machine-learning), and then to _physics inspired geometrical deep learning_ on graphs especially applied to track particles in particle colliders like CERN. After my eventfull journey in Physics, I transitioned into _machine learning_, and currently working on formulating improved methodologies for applications in Science. 
+
+I'm currently living in [Helsinki](./Helsinki.png).
 
 [Back](./)

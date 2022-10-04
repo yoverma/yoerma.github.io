@@ -12,9 +12,7 @@ More about me [here](./more_about_me.html).
 0. **Y. Verma**, S. Kaski, M. Heinonen and V. Garg. "Modular Flows: Differential Molecular Generation.", _36th Conference on Neural Information Processing Systems (NeurIPS 2022)._
 0. **Y. Verma** and S. Jena. "Particle Track Reconstruction using Geometric Deep Learning ", [preprint](https://arxiv.org/abs/2012.08515)
 0. **Y. Verma** and S. Jena. "Jet characterization in Heavy Ion Collisions by QCD-Aware Graph Neural Networks", [preprint](https://arxiv.org/abs/2103.14906)
-0. **Y. Verma** and S. Jena. "Shower Identification in Calorimeter using Deep Learning ", [preprint](https://arxiv.org/abs/2103.16247)
-
-{: reversed="reversed"}
+0. **Y. Verma** and S. Jena. "Shower Identification in Calorimeter using Deep Learning ", [preprint](https://arxiv.org/abs/2103.16247){: reversed="reversed"}
 
 ## Workshops:
 0. **Cui, T.**, Marttinen, P., and Kaski, S. "Recovering Pairwise Interactions Using Neural Networks" _Bayesian Deep Learning, Workshop at NeurIPS 2019_.

@@ -17,6 +17,7 @@ More about me [here](./more_about_me.html).
 
 ## Workshops:
 0. **Y. Verma**, S. Kaski, M. Heinonen and V. Garg. "Modular Flows: Differential Molecular Generation.", _Symbiosis of Deep Learning and Differential Equations, Workshop at NeurIPS 2022_.
+0. **Y. Verma**, S. Kaski, M. Heinonen and V. Garg. "Modular Flows: Differential Molecular Generation.", _New Frontiers in Graph Learning, Workshop at NeurIPS 2022_. 
 {: reversed="reversed"}
 
 ## Services

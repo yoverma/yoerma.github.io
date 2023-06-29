@@ -18,7 +18,7 @@ More about me [here](./more_about_me.html).
 
 ## Workshops:
 0. **Y. Verma**, M. Heinonen and V. Garg. "AbODE: Ab initio Antibody Design using Conjoined ODEs.", _New Frontiers in
-Learning, Control, and Dynamical Systems at ICML 2023_. [arxiv](https://arxiv.org/abs/2306.01005)
+Learning, Control, and Dynamical Systems at ICML 2023_.
 0. **Y. Verma**, S. Kaski, M. Heinonen and V. Garg. "Modular Flows: Differential Molecular Generation.", _Symbiosis of Deep Learning and Differential Equations, Workshop at NeurIPS 2022_.
 0. **Y. Verma**, S. Kaski, M. Heinonen and V. Garg. "Modular Flows: Differential Molecular Generation.", _New Frontiers in Graph Learning, Workshop at NeurIPS 2022_. 
 {: reversed="reversed"}

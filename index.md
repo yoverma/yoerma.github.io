@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About Me
- I'm a Doctoral Researcher at [(Qurious) Quantum Machine Learners](https://quml.aalto.fi/), [Aalto University](http://www.aalto.fi/en/), working with Prof. [Vikas Garg](https://www.mit.edu/~vgarg/), Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski) and Dr. [Markus Heinonen](https://users.aalto.fi/~heinom10/). I'm interested in physics inspired geometric deep learning, AI4Science and machine learning for molecules and drug design, and many more things.
+ I'm a Doctoral Researcher at [(Qurious) Quantum Machine Learners](https://quml.aalto.fi/), [Aalto University](http://www.aalto.fi/en/), working with Prof. [Vikas Garg](https://www.mit.edu/~vgarg/), Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski) and Dr. [Markus Heinonen](https://users.aalto.fi/~heinom10/). I'm interested in physics inspired deep learning to model dynamical complex systems like time-series and its application in AI4Science, molecules and drug design, and many more things.
 
 More about me [here](./more_about_me.html).
 
@@ -25,9 +25,9 @@ Learning, Control, and Dynamical Systems at ICML 2023_.
 
 ## Services
 ### Reviewing:
-NeurIPS
-ICML
-RBCDSAI-FCAI Conference
+- NeurIPS
+- ICML
+- RBCDSAI-FCAI Conference
 
 ## Contact
 **Email**:   

@@ -16,6 +16,7 @@ More about me [here](./more_about_me.html).
 
 
 ## Preprints
+0. A. Dumitrescu, D. Korpela, M. Heinonen, **Y. Verma**, V. Iakovlev, V. Garg and H. Lähdesmäki "Field-based Molecule Generation", [preprint](https://arxiv.org/abs/2402.15864)
 0. **Y. Verma** and S. Jena. "Particle Track Reconstruction using Geometric Deep Learning ", [preprint](https://arxiv.org/abs/2012.08515)
 0. **Y. Verma** and S. Jena. "Jet characterization in Heavy Ion Collisions by QCD-Aware Graph Neural Networks", [preprint](https://arxiv.org/abs/2103.14906)
 0. **Y. Verma** and S. Jena. "Shower Identification in Calorimeter using Deep Learning ", [preprint](https://arxiv.org/abs/2103.16247){: reversed="reversed"}

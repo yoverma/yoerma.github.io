@@ -3,7 +3,9 @@ layout: default
 ---
 
 ## About Me
- I'm a Doctoral Researcher at [(Qurious) Quantum Machine Learners](https://quml.aalto.fi/), [Aalto University](http://www.aalto.fi/en/), working with Prof. [Vikas Garg](https://www.mit.edu/~vgarg/), Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski) and Dr. [Markus Heinonen](https://users.aalto.fi/~heinom10/). I'm interested in physics inspired deep learning to model dynamical complex systems like time-series and its application in AI4Science, molecules and drug design, and many more things.
+ I'm a Doctoral Researcher at [(Qurious) Quantum Machine Learners](https://quml.aalto.fi/), [Aalto University](http://www.aalto.fi/en/), working with Prof. [Vikas Garg](https://www.mit.edu/~vgarg/), Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski) and Dr. [Markus Heinonen](https://users.aalto.fi/~heinom10/). I am also a recipient of [Nokia Scholarship](https://nokiafoundation.com/grants/nokia-scholarship/) and a [DAAD AI-Net Fellow](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/). 
+
+ My research interests include physics-inspired deep learning for modeling dynamical systems, (geometric and topological) deep learning, generative models and robust bayesian inference.
 
 More about me [here](./more_about_me.html).
 

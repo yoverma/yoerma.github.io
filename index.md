@@ -10,7 +10,9 @@ layout: default
 More about me [here](./more_about_me.html).
 
 ## Publications
-0. **Y. Verma<sup>*</sup>**, G. Mercatali<sup>*</sup>, A. Freitas and V. Garg. "Diffusion Twigs with Loop Guidance for Conditional Graph Generation", _38th Conference on Neural Information Processing Systems (NeurIPS 2024)._
+0. **Y. Verma**, A. Bharti and V. Garg. "Robust Simulation-Based Inference under Missing Data via Neural Processes", _13th International Conference on Learning Representations (ICLR 2025)._[arxiv](https://openreview.net/pdf?id=GsR3zRCRX5)
+0. A. Dumitrescu, D. Korpela, M. Heinonen, **Y. Verma**, V. Iakovlev, V. Garg, H. Lähdesmäki. "Field-based Molecule Generation", _13th International Conference on Learning Representations (ICLR 2025)._[arxiv](https://arxiv.org/abs/2402.15864)
+0. **Y. Verma<sup>*</sup>**, G. Mercatali<sup>*</sup>, A. Freitas and V. Garg. "Diffusion Twigs with Loop Guidance for Conditional Graph Generation", _38th Conference on Neural Information Processing Systems (NeurIPS 2024)._ [arxiv](https://openreview.net/pdf?id=fvOCJAAYLx)
 0. **Y. Verma**, A. Souza and V. Garg. "Topological Neural Networks go Persistent, Equivariant and Continuous", _41st International Conference on Machine Learning (ICML 2024)._ [arxiv](https://arxiv.org/abs/2406.03164)
 0. **Y. Verma**, M. Heinonen and V. Garg. "ClimODE: Climate Forecasting With Physics-informed Neural ODEs", <span style="color:red"> **Oral (Top 1%)** </span>, _12th International Conference on Learning Representations (ICLR 2024)._ [arxiv](https://openreview.net/pdf?id=xuY33XhEGR)
 0. **Y. Verma**, M. Heinonen and V. Garg. "AbODE: Ab initio Antibody Design using Conjoined ODEs.", _40th International Conference on Machine Learning (ICML 2023)._ [arxiv](https://arxiv.org/abs/2306.01005)
@@ -19,7 +21,6 @@ More about me [here](./more_about_me.html).
 
 
 ## Preprints
-0. A. Dumitrescu, D. Korpela, M. Heinonen, **Y. Verma**, V. Iakovlev, V. Garg, H. Lähdesmäki. "Field-based Molecule Generation", [preprint](https://arxiv.org/abs/2402.15864)
 0. **Y. Verma** and S. Jena. "Particle Track Reconstruction using Geometric Deep Learning ", [preprint](https://arxiv.org/abs/2012.08515)
 0. **Y. Verma** and S. Jena. "Jet characterization in Heavy Ion Collisions by QCD-Aware Graph Neural Networks", [preprint](https://arxiv.org/abs/2103.14906)
 0. **Y. Verma** and S. Jena. "Shower Identification in Calorimeter using Deep Learning ", [preprint](https://arxiv.org/abs/2103.16247){: reversed="reversed"}

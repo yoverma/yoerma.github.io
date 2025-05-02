@@ -10,11 +10,12 @@ layout: default
 More about me [here](./more_about_me.html).
 
 ## Publications
+0. **Y. Verma**, A. Souza and V. Garg. "Positional Encoding meets Persistent Homology on Graphs", _42nd International Conference on Machine Learning (ICML 2025)._ [arxiv]()
 0. **Y. Verma**, A. Bharti and V. Garg. "Robust Simulation-Based Inference under Missing Data via Neural Processes", _13th International Conference on Learning Representations (ICLR 2025)._[arxiv](https://openreview.net/pdf?id=GsR3zRCRX5)
 0. A. Dumitrescu, D. Korpela, M. Heinonen, **Y. Verma**, V. Iakovlev, V. Garg, H. Lähdesmäki. "Field-based Molecule Generation", _13th International Conference on Learning Representations (ICLR 2025)._[arxiv](https://arxiv.org/abs/2402.15864)
 0. **Y. Verma<sup>*</sup>**, G. Mercatali<sup>*</sup>, A. Freitas and V. Garg. "Diffusion Twigs with Loop Guidance for Conditional Graph Generation", _38th Conference on Neural Information Processing Systems (NeurIPS 2024)._ [arxiv](https://openreview.net/pdf?id=fvOCJAAYLx)
 0. **Y. Verma**, A. Souza and V. Garg. "Topological Neural Networks go Persistent, Equivariant and Continuous", _41st International Conference on Machine Learning (ICML 2024)._ [arxiv](https://arxiv.org/abs/2406.03164)
-0. **Y. Verma**, M. Heinonen and V. Garg. "ClimODE: Climate Forecasting With Physics-informed Neural ODEs", <span style="color:red"> **Oral (Top 1%)** </span>, _12th International Conference on Learning Representations (ICLR 2024)._ [arxiv](https://openreview.net/pdf?id=xuY33XhEGR)
+0. **Y. Verma**, M. Heinonen and V. Garg. "ClimODE: Climate and Weather Forecasting With Physics-informed Neural ODEs", <span style="color:red"> **Oral (Top 1%)** </span>, _12th International Conference on Learning Representations (ICLR 2024)._ [arxiv](https://openreview.net/pdf?id=xuY33XhEGR)
 0. **Y. Verma**, M. Heinonen and V. Garg. "AbODE: Ab initio Antibody Design using Conjoined ODEs.", _40th International Conference on Machine Learning (ICML 2023)._ [arxiv](https://arxiv.org/abs/2306.01005)
 0. **Y. Verma**, S. Kaski, M. Heinonen and V. Garg. "Modular Flows: Differential Molecular Generation.", _36th Conference on Neural Information Processing Systems (NeurIPS 2022)._ [arxiv](https://arxiv.org/abs/2210.06032)
 0. **Y. Verma**, M. Aggarwal, V. Joshi, A. Sharma. "Characterization Study of a Button BPM with an Approach to Automated Measurements", _9th International Beam Instrumentation Conference, IBIC2020._, [arxiv](https://inspirehep.net/files/27237f582a7215167d233bb072abcb24) 

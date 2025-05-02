@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Tianyu Cui</title>
+    <meta name="author" content="Tianyu Cui">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="icon" href="mfavicon.jpg">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+
+<body>
+    <div class="container">
+        <!-- BIO -->
+        <div class="row bio">
+            <!-- <div class="col-md-3 order-1 order-md-2 avatar"> -->
+            <div class="col-md-3 order-1 avatar">
+                <img class="img-responsive" src="src/images/profile_pic.jpg" alt="avatar">
+            </div>
+
+            <!-- <div class="col-md-9 order-2 order-md-1"> -->
+            <div class="col-md-9 order-2">
+                <h1 style="text-align:center;">Tianyu Cui</h1>
+                <p>
+                    I'm Tianyu, a Research Scientist at Johnson & Johnson, working on AI for drug discovery. My research spans classical Bayesian modeling to modern deep learning, with a particular focus on developing principled probabilistic methods that leverage foundation models to enhance prediction and discovery.
+                </p>
+                
+                <p>
+                    I did my PhD at <a href="https://research.cs.aalto.fi/pml/">PML</a> and <a href="https://users.ics.aalto.fi/~pemartti/">ML4H</a> at 
+                    Aalto University with <a href="https://people.aalto.fi/samuel.kaski">Prof. Samuel Kaski</a> and <a href="https://users.ics.aalto.fi/~pemartti/">Prof. Pekka Marttinen</a> focusing on Bayesian deep learning before joining Imperial College London as a Research Associate. 
+                    I received MSc degree from University College London on computational statistics and machine learning. 
+                </p>
+
+                <p style="text-align:center">
+                    <a href="mailto:tianycui@hotmail.com">Email</a> |
+                    <a href="https://www.linkedin.com/in/tianyu-cui-042a24ab/">LinkedIn</a> |
+                    <a href="https://github.com/tycui">GitHub</a> |
+                    <a href="https://scholar.google.com/citations?user=zz_l_pYAAAAJ&hl=en">Google Scholar</a>
+                </p>
+            </div>
+        </div>
+
+        <!-- PUBLICATIONS -->
+        <h2>Selected publications</h2>
+
+        <!-- <div class="row publications">
+            <div class="col-md-5">
+                <img class="img-responsive" src="src/images/iclr_ts4h.png" alt="" />
+            </div>
+            <div class="col-md-7">
+                <p class="title">Representation Learning of Daily Movement Data Using Text Encoders</p>
+                <p class="authors">Alexander Capstick, Tianyu Cui, Yu Chen, Payam Barnaghi</p>
+                <p class="conf">ICLR: Time Series for Health, 2024</p>
+                <p class="description">
+                    
+
+                </p>
+                <div class="links">
+                    <a href="https://arxiv.org/pdf/2405.04494?">Paper</a>
+                </div>
+            </div>
+        </div>
+
+        <hr> -->
+        <div class="row publications">
+            <div class="col-md-5">
+                <img class="img-responsive" src="src/images/infosem.png" alt="" />
+            </div>
+            <div class="col-md-7">
+                <p class="title">InfoSEM: A Deep Generative Model with Informative Priors for Gene Regulatory Network Inference</p>
+                <p class="authors">Tianyu Cui, Song-Jun Xu, Artem Moskalev, Shuwei Li, Tommaso Mansi, Mangal Prakash*, Rui Liao*</p>
+                <p class="conf">ICLR: AI4NA, <b style="color:#B09 !important;">Oral</b>, 2025; ICLR: MLGenX, <b style="color:#B09 !important;">Spotlight</b>, 2025</p>
+                <p class="description">
+                    
+                    We introduce InfoSEM, an unsupervised deep generative model for GRN inference that integrates gene embeddings from pretrained foundation models and known interactions as informative priors. We show that existing supervised methods exploit dataset biases rather than true biological mechanisms. We propose a biologically motivated benchmarking that better reflects real-world applications, where InfoSEM achieves state-of-the-art performance.
+
+                </p>
+                <div class="links">
+                    <a href="https://www.arxiv.org/abs/2503.04483">Paper</a> |
+                    <a href="src/pdfs/InfoSEM_poster.pdf">Poster</a> 
+                </div>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row publications">
+            <div class="col-md-5">
+                <img class="img-responsive" src="src/images/offline2onlineRL.png" alt="" />
+            </div>
+            <div class="col-md-7">
+                <p class="title">Generalist World Model Pre-Training for Efficient Reinforcement Learning</p>
+                <p class="authors">Yi Zhao, Aidan Scannell, Yuxin Hou, Tianyu Cui, Le Chen, Dieter Büchler, Arno Solin, Juho Kannala, Joni Pajarinen</p>
+                <p class="conf">ICLR: World Models, 2025
+                <p class="description">
+                    
+                    We propose a generalist world model pretraining (WPT) approach for robot learning using reward-free, non-expert multi-embodiment offline data. Combined with retrieval-based experience rehearsal and execution guidance, WPT enables efficient reinforcement learning and rapid task adaptation, outperforming learning-from-scratch baselines by over 35% across 72 visuomotor tasks.
+
+                </p>
+                <div class="links">
+                    <a href="https://arxiv.org/pdf/2502.19544">Paper</a> |
+                    <a href="src/pdfs/poster_wpt_iclr workshop.pdf">Poster</a> 
+                </div>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row publications">
+            <div class="col-md-5">
+                <img class="img-responsive" src="src/images/bal_drug_design.png" alt="" />
+            </div>
+            <div class="col-md-7">
+                <p class="title">Molecular Property Prediction using Pretrained-BERT and Bayesian Active Learning: A Data-Efficient Approach to Drug Design</p>
+                <p class="authors">Muhammad Arslan Masood, Samuel Kaski, Tianyu Cui</p>
+                <p class="conf">Journal of Cheminformatics, 2025; ICLR: GEM, 2025
+                <p class="description">
+                    
+                    We propose a semi-supervised Bayesian active learning framework for molecular property prediction, leveraging representations from a pretrained MolBERT model on 1.26 million compounds instead of relying solely on limited labeled data. This semi-supervised approach improves prediction accuracy and acquisition efficiency compared to classical supervised active learning.
+
+                </p>
+                <div class="links">
+                    <a href="https://openreview.net/pdf?id=WELNCRjsIT">Paper</a>
+                </div>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row publications">
+            <div class="col-md-5">
+                <img class="img-responsive" src="src/images/dp_prior.png" alt="" />
+            </div>
+            <div class="col-md-7">
+                <p class="title">Incorporating Functional Summary Information in Bayesian Neural Networks Using a Dirichlet Process Likelihood</p>
+                <p class="authors">Vishnu Raj, Tianyu Cui, Markus Heinonen, Pekka Marttinen</p>
+                <p class="conf">AISTATS, 2023</p>
+                <p class="description">
+                    
+                    We introduce DP-BNN, a novel strategy that integrates prior knowledge of task difficulty and class imbalance into deep learning with a Dirichlet process on the predicted probabilities. DP-BNN improves in accuracy, uncertainty calibration, and robustness against corruptions on both balanced and imbalanced image and text datasets with negligible computational overhead.
+
+                </p>
+                <div class="links">
+                    <a href="https://proceedings.mlr.press/v206/raj23a/raj23a.pdf">Paper</a> |
+                    <a href="https://github.com/v-i-s-h/summary-likelihood">Code</a> |
+                    <a href="src/pdfs/dp_bnn_aistats23.pdf">Poster</a> 
+                </div>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row publications">
+            <div class="col-md-5">
+                <img class="img-responsive" src="src/images/dCKA_demo.jpg" alt="" />
+            </div>
+            <div class="col-md-7">
+                <p class="title">Deconfounded Representation Similarity for Comparison of Neural Networks</p>
+                <p class="authors">Tianyu Cui, Yogesh Kumar, Pekka Marttinen, Samuel Kaski</p>
+                <p class="conf">NeurIPS, <b style="color:#B09 !important;">Oral</b>, 2022</p>
+                <p class="description">
+                    
+                    Representation similarity between neural networks can be confounded by population structure, leading to misleading conclusions, such as spuriously high similarity in random neural networks. We propose covariate adjustment regression to remove this confounder, enhancing functional similarity detection while preserving invariance properties.
+
+                </p>
+                <div class="links">
+                    <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/79cbf4f96c2bcc67267421154da689dd-Abstract-Conference.html">Paper</a> |
+                    <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/79cbf4f96c2bcc67267421154da689dd-Supplemental-Conference.zip">Code</a> |
+                    <a href="src/pdfs/dcka_neurips2022.pdf">Poster</a> |
+                    <a href="https://www.youtube.com/watch?v=dA7jKK3TNqc&ab_channel=FinnishCenterforArtificialIntelligenceFCAI">Video</a>
+                </div>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row publications">
+            <div class="col-md-5">
+                <img class="img-responsive" src="src/images/r2_prior.png" alt="" />
+            </div>
+            <div class="col-md-7">
+                <p class="title">Informative Bayesian Neural Network Priors for Weak Signals</p>
+                <p class="authors">Tianyu Cui, Aki Havulinna, Pekka Marttinen, Samuel Kaski</p>
+                <p class="conf">Bayesian Analysis, <b style="color:#B09 !important;">Oral at Joint Statistical Meetings</b>, 2022</p>
+                <p class="description">
+                    
+                    We introduce a novel framework that incorporates domain knowledge on feature sparsity and data signal-to-noise ratio into the Gaussian scale mixture priors of neural network weights. This informative prior enhances prediction accuracy in datasets with weak and sparse signals, such as those in genetics, even surpassing computationally intensive cross-validation for hyperparameter tuning.
+
+                </p>
+                <div class="links">
+                    <a href="https://projecteuclid.org/journals/bayesian-analysis/volume-17/issue-4/Informative-Bayesian-Neural-Network-Priors-for-Weak-Signals/10.1214/21-BA1291.full">Paper</a> |
+                    <a href="https://github.com/tycui/informative_prior">Code</a> |
+                    <a href="https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=220815">Video</a> 
+                </div>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row publications">
+            <div class="col-md-5">
+                <img class="img-responsive" src="src/images/gxg_interaction.png" alt="" />
+            </div>
+            <div class="col-md-7">
+                <p class="title">Gene-gene Interaction Detection with Deep Learning </p>
+                <p class="authors">Tianyu Cui, Khaoula El Mekkaoui, Jaakko Reinvall, Aki S. Havulinna, Pekka Marttinen, Samuel Kaski 
+                </p>
+                <p class="conf">Nature Communications Biology, 2022</p>
+                <p class="description">
+
+                    We propose a biologically motivated neural network architecture to model and detect gene interactions from GWAS datasets, along with a novel permutation procedure to assess the uncertainty of these interactions. The proposed framework identified nine interactions in a cholesterol study using the UK Biobank, which were successfully replicated in an independent FINRISK dataset.
+
+                </p>
+                <div class="links">
+                    <a href="https://www.nature.com/articles/s42003-022-04186-y">Paper</a> |
+                    <a href="https://github.com/tycui/GWAS_NN">Code</a> 
+                </div>
+            </div>
+        </div>
+
+
+        <hr>
+
+        <div class="row publications">
+            <div class="col-md-5">
+                <img class="img-responsive" src="src/images/bdl_interaction.png" alt="" />
+            </div>
+            <div class="col-md-7">
+                <p class="title">Learning Global Pairwise Interactions with Bayesian Neural Networks</p>
+                <p class="authors">Tianyu Cui, Pekka Marttinen*, Samuel Kaski*
+                </p>
+                <p class="conf">ECAI, <b style="color:#B09 !important;">Oral</b>, 2020; NeurIPS: Bayesian Deep Learning, 2019</p>
+                <p class="description">
+
+                    In this paper, we propose using Bayesian neural networks to capture global interactions effects with well-calibrated uncertainty between features or latent representations to enhance interpretability.
+
+                </p>
+                <div class="links">
+                    <a href="https://ebooks.iospress.nl/volumearticle/55000">Paper</a> |
+                    <a href="src/pdfs/bdl_interaction_neurips2019.pdf">Poster</a> 
+                </div>
+            </div>
+        </div>
+
+        <hr>
+
+        <!-- NEWS -->
+        <h2>Highlights</h2>
+        <div class="row">
+            <ul>
+                <li>&#127881; Our paper on Bayesian active learning with molecular foundation models is accepted to Cheminformatics and GEM@ICLR2025.
+                <li>I presented "Bayesian Deep Learning: Priors, Likelihoods, and Representations" at Microsoft Research Cambridge. </li>
+                <li>I presented "Bayesian Deep Learning: Models and Experimental Design" at Secondmind.ai research seminar. </li>
+                <li>I was selected as an <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/">AI fellow</a> in Human-Centered AI by DAAD, Germany. </li>
+                <li>I gave a lecture about "Priors in Bayesian Deep Learning" in <a href="https://ai-dd.eu/lectures">AI for drug discovery (AIDD)</a> school.</li>
+                <li>&#127881; I received the Best Reviewer Award from ICML2021!
+            </ul>
+        </div>
+
+        <!-- STUDENTS -->
+        <h2>Interns and Students</h2>
+        <div class="row">
+            <ul>
+                <li>Muhammad Arslan Masood: Bayesian active learning for drug property prediction</li>
+                <li>Yunseon Lee: Handing missing-not-at-random data with deep generative model</li>
+                <li>Viktoriia Huryn: Discovering gene-gene interactions in GWAS data with distributed deep learning</li>
+                <li>Zhiheng Qian: Handling missing values with hybrid approaches in supervised setting</li>
+                <li>Kha L. H. Nguyen: Uncertainty in recurrent neural network with dropout</li>
+                <li>Alejandro Ponce de Leon Chavez: Uncertainty quantification with deep ensemble for in-hospital mortality prediction</li>
+                <li>Joona Marjakangas: Interaction detection by deep neural nets with application in genomics</li>
+            </ul>
+        </div>
+
+        <!-- TEACHING -->
+        <h2>Teaching</h2>
+        <div class="row">
+            <ul>
+                <li>Machine Learning for Neuroscience, Imperial College London, 2024</li>
+                <li>Machine Learning: Advanced Probabilistic Methods, Aalto University, 2019 – 2022</li>
+            </ul>
+        </div>
+
+        <!-- REVIEWING -->
+        <h2>Reviewing</h2>
+        <div class="row">
+            <ul>
+                <li>NeurIPS, ICML, ICLR, AISTATS, JMLR, AABI</li>
+            </ul>
+        </div>
+
+    </div>
+</body>
+
+</html>
